@@ -57,6 +57,7 @@ footer {
 } */
 btn {
   color: #4ECCA3;
+  margin: 30px;
 }
 
 button:hover {
