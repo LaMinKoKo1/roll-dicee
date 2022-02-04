@@ -59,6 +59,7 @@ footer {
 .btn {
   color: #4ECCA3;
   margin: 30px;
+  font-family: 'lobster', cursive ;
 }
 
 button:hover {
